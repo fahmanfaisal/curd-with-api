@@ -1,7 +1,7 @@
 {
   "name": "crud",
   "version": "1.0.0",
-  "description": "crud with nodejs | expressjs | mongoDB",
+  "description": "crud with nodejs | expressjs | mongoDB | Postman",
   "main": "index.js",
   "type": "module",
   "scripts": {
